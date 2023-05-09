@@ -11,3 +11,8 @@
     background-size: cover;
     background-attachment: fixed;
 }
+
+/* -------------------------------------- h3 Styling */
+h3 {
+    text-decoration: underline 3px solid #cda45d; 
+}
