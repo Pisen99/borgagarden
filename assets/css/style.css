@@ -1,0 +1,6 @@
+/* -------------------------------------- Hero image */
+#hero {
+    background: url(../images/hero.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
