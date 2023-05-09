@@ -16,3 +16,19 @@
 h3 {
     text-decoration: underline 3px solid #cda45d; 
 }
+
+/* -------------------------------------- Why-us img styling */
+.why-us .box-fine-dining:hover {
+    background: url(../images/fine-dining.png) center center;
+    background-size: cover;
+}
+
+.why-us .box-saloon-pub:hover {
+    background: url(../images/saloon-pub.png) center center;
+    background-size: cover;
+}
+
+.why-us .box-cabin:hover {
+    background: url(../images/cabin.jpeg) center center;
+    background-size: cover;
+}
