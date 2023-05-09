@@ -1,6 +1,13 @@
 /* -------------------------------------- Hero image */
 #hero {
-    background: url(../images/hero.jpeg);
+    background: url(../images/hero.jpeg) center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* -------------------------------------- About image */
+.about {
+    background: url(../images/about-b.png) center center;
     background-size: cover;
     background-attachment: fixed;
 }
