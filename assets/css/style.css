@@ -21,6 +21,11 @@ h3 {
 .why-us .box-fine-dining:hover {
     background: url(../images/fine-dining.png) center center;
     background-size: cover;
+    color: none;
+}
+
+.why-us .box:hover h4, .why-us .box:hover p {
+    color: #fff0;
 }
 
 .why-us .box-saloon-pub:hover {
